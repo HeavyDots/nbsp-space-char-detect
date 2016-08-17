@@ -1,4 +1,4 @@
-Sometimes when copying text from different sources and pasting it into a website's backoffice you can end up with a strange char like this that looks like the normal space char but browsers render it as a non-breaking space (&nbsp;). 
+Sometimes when copying text from different sources and pasting it into a website's backoffice you can end up with a strange char like this that looks like the normal space char but browsers render it as a non-breaking space (nbsp). 
 
 This char might cause strange behavior on some devices, such as sticking two words together on an Android powered smartphone. 
 
