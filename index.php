@@ -101,6 +101,7 @@ if (!empty($url) && count($errors)==0) {
           <li>Stack Overflow Post 1: <a target="_blank" href="http://stackoverflow.com/questions/26962323/what-is-this-insane-space-character-google-chrome">What is this INSANE space character??? (google chrome)</a></li>
           <li>Stack Overflow Post 2: <a target="_blank" href="http://stackoverflow.com/questions/17982104/how-do-i-check-for-this-odd-space-character-in-objective-c">How do I check for this odd space character - “ ” in Objective-C?</a></li>
           <li>Github page for this PHP script: <a target="_blank" href="https://github.com/HeavyDots/nbsp-space-char-detect">https://github.com/HeavyDots/nbsp-space-char-detect</a></li>
+          <li>Also, read our blog post about "the white beast" to learn about the mystery behind it: <a target="_blank" href="http://heavydots.com/blog/when-the-white-space-became-a-beast">http://heavydots.com/blog/when-the-white-space-became-a-beast</a></li>
         </ul>
         
         <p>Brought to you by the <a target="_blank" href="http://heavydots.com/">HeavyDots</a> team. Enjoy and give feedback in the comments below!</p>
